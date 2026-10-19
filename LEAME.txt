@@ -1,0 +1,12 @@
+TRABAJO PRÁCTICO: MI CURRÍCULUM VITAE WEB
+Estudiante: Miguel Alfredo Monasterio Albarracín
+Curso: 7mo Año Informática - EPET N° 13
+
+CONTENIDO DEL ARCHIVO COMPRIMIDO:
+1. index.html - Estructura semántica de la página web.
+2. styles.css - Hoja de estilos con paleta de colores armónica, diseño responsive y modo oscuro.
+3. script.js - Interactividad del sitio (Formulario de contacto, cambio de tema).
+4. foto.jpg - Fotografía de perfil incorporada.
+
+INSTRUCCIONES DE EJECUCIÓN:
+Para visualizar la página web, simplemente haga doble clic sobre el archivo "index.html" para abrirlo en cualquier navegador web moderno (Chrome, Edge, Firefox, Safari).
